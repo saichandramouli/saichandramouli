@@ -11,7 +11,7 @@ I’m a detail-oriented and highly motivated Computer Applications postgraduate 
 
 - 🎓 **Master of Computer Applications (MCA)** – BV Raju College (CGPA: 8.02)
 - 🎓 **Bachelor of Computer Applications (BCA)** – Samhitha Degree College (CGPA: 7.19)
-- 💼 **Full Stack Developer Intern** at **V-Cube Software Solutions**
+- 💼 **Web Developer Intern** at **V-Cube Software Solutions**
 - 🌱 Currently improving my skills in **Backend Development & APIs**
 - 🎯 Career Goal: Grow as a Software Engineer in a fast-paced, learning-driven environment
 
