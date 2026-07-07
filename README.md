@@ -9,8 +9,8 @@ I’m a detail-oriented and highly motivated Computer Applications postgraduate 
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Master of Computer Applications (MCA)** – BV Raju College (CGPA: 8.02)
-- 🎓 **Bachelor of Computer Applications (BCA)** – Samhitha Degree College (CGPA: 7.19)
+- 🎓 **Master of Computer Applications (MCA)** – (CGPA: 8.02)
+- 🎓 **Bachelor of Computer Applications (BCA)** – (CGPA: 7.19)
 - 💼 **Web Developer Intern** at **V-Cube Software Solutions**
 - 🌱 Currently improving my skills in **Backend Development & APIs**
 - 🎯 Career Goal: Grow as a Software Engineer in a fast-paced, learning-driven environment
@@ -38,16 +38,18 @@ I’m a detail-oriented and highly motivated Computer Applications postgraduate 
 
 ### 🌐 Web Development
 - HTML5 | CSS3  
-- Django  
+- Django 
+- Django Templates
 
 ### 🗄️ Databases
 - MySQL  
-- MongoDB  
+- MongoDB
+- Postgresql
 
 ### ⚙️ Backend & Tools
 - RESTful APIs  
 - Git & GitHub  
-- VS Code  
+- AWS (EC2, RDS, S3)  
 
 ---
 
